@@ -4,21 +4,21 @@
 
 
 
-## 🚀 About Me
+## About Me
 
 I'm a Computer Science Engineering student at ASIET with an interest in software development, problem-solving, and Artificial Intelligence. I enjoy building practical applications that address real-world challenges and continuously exploring emerging technologies.
 
-- 🌟 Google Student Ambassador 2026
-- 🎓 Computer Science Engineering Student at ASIET
-- 🤖 Currently exploring Artificial Intelligence and Prompt Engineering
-- 💻 Passionate about software development and building impactful solutions
-- 📚 Lifelong learner with a curiosity for technology and innovation
+-  Google Student Ambassador 2026
+-  Computer Science Engineering Student at ASIET
+-  Currently exploring Artificial Intelligence and Prompt Engineering
+-  Passionate about software development and building impactful solutions
+-  Lifelong learner with a curiosity for technology and innovation
 
 
 
 ## 🛠️ Projects
 
-### 🚗 Smart Parking Management System
+### Smart Parking Management System
 **Java | Java Swing | 2025**
 
 - Developed a Smart Parking Management System supporting multiple parking slots with real-time availability tracking.
@@ -26,7 +26,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - Built role-based access control for Admin, User, and Security roles.
 - Developed an end-to-end parking booking and verification workflow.
 
-### 🧾 Shop Billing Management System
+### Shop Billing Management System
 **Python | MySQL | 2024**
 
 - Developed a billing and inventory management system with MySQL database integration.
@@ -36,7 +36,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 - Artificial Intelligence
 - Prompt Engineering
@@ -45,7 +45,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 
 
-## 🏆 Experience
+## Experience
 
 ### Google Student Ambassador 2026
 
@@ -55,7 +55,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -70,16 +70,15 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Karthik-SV-Code&show_icons=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-SV-Code&layout=compact&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Karthik-SV-Code" />
 </p>
 
 
 
-## 📫 Connect With Me
+## Connect With Me
 
 - LinkedIn: linkedin.com/in/karthik-sarma-valluri
 
