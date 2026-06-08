@@ -14,7 +14,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - 💻 Passionate about software development and building impactful solutions
 - 📚 Lifelong learner with a curiosity for technology and innovation
 
----
+
 
 ## 🛠️ Projects
 
@@ -34,7 +34,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - Added dynamic tax and discount calculations based on product categories.
 - Designed modular components for handling multiple product categories.
 
----
+
 
 ## 🌱 Currently Exploring
 
@@ -43,7 +43,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - Google Gemini
 - AI Applications for Productivity and Learning
 
----
+
 
 ## 🏆 Experience
 
@@ -53,7 +53,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - Organize and support events, workshops, and discussions that promote awareness of Google's AI tools and technologies.
 - Create and share content, resources, and best practices to help students effectively integrate Gemini into academic and personal projects.
 
----
+
 
 ## 💻 Tech Stack
 
@@ -68,7 +68,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - GitHub
 - Java Swing
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -77,12 +77,12 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik-SV-Code&layout=compact&hide_border=true" />
 </p>
 
----
+
 
 ## 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/karthik-sarma-valluri
 
----
 
-### Building technology that solves real-world problems.
+
+### Passionate about building technology that solves real-world problems.
