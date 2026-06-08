@@ -10,7 +10,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 -  Google Student Ambassador 2026
 -  Computer Science Engineering Student at ASIET
--  Currently exploring Artificial Intelligence and Prompt Engineering
+-  Currently exploring Artificial Intelligence and how it can improve my workflow
 -  Passionate about software development and building impactful solutions
 -  Lifelong learner with a curiosity for technology and innovation
 
