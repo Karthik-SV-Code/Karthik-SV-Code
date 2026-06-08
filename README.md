@@ -2,7 +2,7 @@
 
 ### Computer Science Engineering Student | Google Student Ambassador | Exploring AI
 
----
+
 
 ## 🚀 About Me
 
