@@ -1,4 +1,4 @@
-# Hi 👋, I'm Karthik Sarma Valluri
+# Hi 👋, I'm Karthik
 
 ### Computer Science Engineering Student | Google Student Ambassador | Exploring AI
 
@@ -16,7 +16,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 
 
-## 🛠️ Projects
+## Projects
 
 ### Smart Parking Management System
 **Java | Java Swing | 2025**
