@@ -38,9 +38,8 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 ## Currently Exploring
 
-- Artificial Intelligence
+- How Artificial Intelligence can improve my workflow
 - Prompt Engineering
-- Google Gemini
 - AI Applications for Productivity and Learning
 
 
@@ -64,10 +63,7 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 
 ### Tools & Technologies
 - MySQL
-- Git
 - GitHub
-- Java Swing
-
 
 
 ## GitHub Stats
