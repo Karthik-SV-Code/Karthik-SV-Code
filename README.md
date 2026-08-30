@@ -1,6 +1,6 @@
 # Hi 👋, I'm Karthik
 
-### Computer Science Engineering Student | Google Student Ambassador | Exploring AI
+### Computer Science Engineering Student | Google Student Ambassador | Exploring AI & Learning Web Development
 
 
 
