@@ -64,6 +64,9 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 ### Tools & Technologies
 - MySQL
 - GitHub
+- Google AI Studio
+- Google Gemini
+- Google Stitch
 
 
 ## GitHub Stats
