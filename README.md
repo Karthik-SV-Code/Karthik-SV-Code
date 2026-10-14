@@ -9,6 +9,7 @@
 I'm a Computer Science Engineering student at ASIET with an interest in software development, problem-solving, and Artificial Intelligence. I enjoy building practical applications that address real-world challenges and continuously exploring emerging technologies.
 
 -  Google Student Ambassador 2026
+-  Campus Lead - Google Developer Groups On Campus
 -  Computer Science Engineering Student at ASIET
 -  Currently exploring Artificial Intelligence and how it can improve my workflow
 -  Passionate about software development and building impactful solutions
