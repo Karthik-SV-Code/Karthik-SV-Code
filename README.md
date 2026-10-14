@@ -60,6 +60,8 @@ I'm a Computer Science Engineering student at ASIET with an interest in software
 - Python
 - Java
 - SQL
+- HTML
+- CSS
 
 ### Tools & Technologies
 - MySQL
